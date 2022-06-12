@@ -16,7 +16,7 @@ Product/Project/Program Manager as Service
 
 1- generate documents from given/when/then **(mvp1)**
 
-2- help to create a disovery journey for product / tech by having multuple defenitions
+2- help to create a disovery journey for product / tech by having a template for journey with multuple defenitions/keywords.
 
 
 **PMaS QUESTIONS/RULES**
