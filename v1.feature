@@ -6,7 +6,7 @@ Feature: Bank Automated Bill Payment
     And Environment specifications is provided as "Environment" with TOML body
     ```
     [Environment]
-    description =  "in TOML format"
+    description =  "is parsed using https://github.com/rouzikrm/gherkin-python"
     
     [cache]
     server = ""
