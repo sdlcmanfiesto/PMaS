@@ -13,7 +13,7 @@ Product/Project/Program Manager as Service
 
 ***please see [v1.feature](https://raw.githubusercontent.com/sdlcmanfiesto/PMaS/main/v1.feature) for desired level 1 gherkin format.***
 
-***to try parsing v1.feature feel free to use [sdlc gherkin cli parser]  https://github.com/rouzikrm/gherkin-python***
+***to try parsing v1.feature feel free to use [sdlc gherkin cli parser](https://github.com/rouzikrm/gherkin-python)***
 
 
 **PMaS PURPOSE**
