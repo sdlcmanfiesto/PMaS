@@ -2,8 +2,20 @@
 Product/Project/Program Manager as Service
 
 **SDLC Manifesto - Overal Objectives**
+```mermaid
+graph TD;
+    id0(SDLC Manifesto)-->id1(Scrum Master CoPilot - SMCP);
+    id0(SDLC Manifesto)-->id2(Product Manager CoPilot - PMCP);
+    id0(SDLC Manifesto)-->id3(Optimised Code Suggestion - OCS);
+    id1(Scrum Master - CoPilot SMCP)-->id4(Meeting Planner);
+    id1(Scrum Master - CoPilot SMCP)-->id5(Automate All Scrum Master related repetitive tasks);
+    id2(Product Manager CoPilot - PMCP)-->id6(Optimised Product Description in Gherkin);
+    id2(Product Manager CoPilot - PMCP)-->id7(Automate All Product Manager related repetitive tasks);
+    id3(Optimised Code Suggestion - OCS)-->id8(Optimised Code Suggestion based on suggested Gherkin Description of product)
+```
 
-![level 0](https://github.com/sdlcmanfiesto/SMaS/blob/main/overall%20objectives.PNG?raw=true)
+<!-- ![level 0](https://github.com/sdlcmanfiesto/SMaS/blob/main/overall%20objectives.PNG?raw=true) -->
+
 
 **SDLC Manifesto LEVEL 0**
 ![level 0](https://github.com/sdlcmanfiesto/SMaS/blob/main/level-1.png?raw=true)
