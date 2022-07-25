@@ -1,5 +1,5 @@
-# PMaS
-Product/Project/Program Manager as Service
+# pMASS
+Product/Project/Program/Process Management as Smart Services
 
 **SDLC Manifesto - Overal Objectives**
 ```mermaid
@@ -29,19 +29,19 @@ graph TD;
 ***to try parsing v1.feature feel free to use [sdlc gherkin cli parser](https://github.com/rouzikrm/gherkin-python)***
 
 
-**PMaS PURPOSE**
+**pMASS PURPOSE**
 
 1- generate documents from given/when/then **(mvp1)**
 
 2- help to create a disovery journey for product / tech by having a template for journey with multuple defenitions/keywords.
 
 
-**PMaS QUESTIONS/RULES**
+**pMASS QUESTIONS/RULES**
 
 TBA
 
 
-**PMaS TRIGGERS**
+**pMASS TRIGGERS**
 
 TBA
 
