@@ -14,7 +14,8 @@ graph TD;
     id3(Optimised Code Suggestion - OCS)-->id8(Optimised Code Suggestion based on suggested Gherkin Description of product)
 ```
 
-<!-- ![level 0](https://github.com/sdlcmanfiesto/SMaS/blob/main/overall%20objectives.PNG?raw=true) -->
+**SDLC Manifesto Scopes:**
+![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/overall%20objectives.PNG?raw=true)
 
 
 **SDLC Manifesto LEVEL 0**
