@@ -15,13 +15,13 @@ graph TD;
 ```
 
 **SDLC Manifesto Scopes:**
-![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/overall%20objectives.PNG?raw=true)
+![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/overall%20scopes.PNG?raw=true)
 
 
-**SDLC Manifesto LEVEL 0**
+**SDLC Manifesto - Project Process Management**
 ![level 0](https://github.com/sdlcmanfiesto/SMaS/blob/main/level-1.png?raw=true)
 
-**SDLC Manifesto LEVEL 1**
+**SDLC Manifesto - DISCOVERY**
 ![level 1](https://github.com/sdlcmanfiesto/SMaS/blob/main/level-2.png?raw=true)
 
 ***please see [v1.feature](https://raw.githubusercontent.com/sdlcmanfiesto/PMaS/main/v1.feature) for desired level 1 gherkin format.***
