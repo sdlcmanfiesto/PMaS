@@ -17,8 +17,10 @@ graph TD;
 **SDLC Manifesto Scopes:**
 ![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/overall%20scopes.PNG?raw=true)
 
+**pMASS Template/Workflow:**
+![level 1](https://github.com/sdlcmanifesto/pMASS/blob/main/pmass-template.PNG?raw=true)
 
-**SDLC Manifesto - Project Process Management**
+**SDLC Manifesto - Project Process Management (simple state machine for pMASS)**
 ![level 0](https://github.com/sdlcmanfiesto/SMaS/blob/main/level-1.png?raw=true)
 
 **SDLC Manifesto - DISCOVERY**
@@ -31,7 +33,7 @@ graph TD;
 
 **pMASS PURPOSE**
 
-1- generate documents from given/when/then **(mvp1)**
+1- generate mindmap and documents from/to given/when/then **(mvp1)**
 
 2- help to create a disovery journey for product / tech by having a template for journey with multuple defenitions/keywords.
 
