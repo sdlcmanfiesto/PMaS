@@ -23,7 +23,7 @@ graph TD;
 **pMASS - Project & Process Wizard - DISCOVERY**
 ![level 1](https://github.com/sdlcmanfiesto/SMaS/blob/main/level-2.png?raw=true)
 
-**pMASS Mindmaping & DOC automations**
+**pMASS - Mindmaping & DOC automations**
 ![level 1](https://github.com/sdlcmanifesto/pMASS/blob/main/pmass-template.PNG?raw=true)
 
 ***please see [v1.feature](https://raw.githubusercontent.com/sdlcmanfiesto/PMaS/main/v1.feature) for desired level 1 gherkin format.***
