@@ -17,14 +17,14 @@ graph TD;
 **SDLC Manifesto Scopes:**
 ![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/overall%20scopes.PNG?raw=true)
 
-**pMASS Template/Workflow:**
-![level 1](https://github.com/sdlcmanifesto/pMASS/blob/main/pmass-template.PNG?raw=true)
-
-**SDLC Manifesto - Project Process Management (simple state machine for pMASS)**
+**pMASS - Project & Process Wizard - Overall**
 ![level 0](https://github.com/sdlcmanfiesto/SMaS/blob/main/level-1.png?raw=true)
 
-**SDLC Manifesto - DISCOVERY**
+**pMASS - Project & Process Wizard - DISCOVERY**
 ![level 1](https://github.com/sdlcmanfiesto/SMaS/blob/main/level-2.png?raw=true)
+
+**pMASS Mindmaping & DOC automations**
+![level 1](https://github.com/sdlcmanifesto/pMASS/blob/main/pmass-template.PNG?raw=true)
 
 ***please see [v1.feature](https://raw.githubusercontent.com/sdlcmanfiesto/PMaS/main/v1.feature) for desired level 1 gherkin format.***
 
