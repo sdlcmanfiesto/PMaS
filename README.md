@@ -15,7 +15,7 @@ graph TD;
 ```
 
 **SDLC Manifesto Scopes:**
-![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/overall%20scopes.PNG?raw=true)
+![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/sdlc-overall-scopes.PNG?raw=true)
 
 **pMASS - Project & Process Wizard - Overall**
 ![level 0](https://github.com/sdlcmanfiesto/SMaS/blob/main/level-1.png?raw=true)
