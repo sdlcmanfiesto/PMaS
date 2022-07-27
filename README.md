@@ -15,16 +15,16 @@ graph TD;
 ```
 
 # SDLC Manifesto Scopes:
-![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/sdlc-overall-scopes-02.PNG?raw=true)
+![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/img/sdlc-overall-scopes-02.PNG?raw=true)
 
 # pMASS - Project & Process Wizard - Overall
-![level 0](https://github.com/sdlcmanfiesto/SMaS/blob/main/level-1.png?raw=true)
+![level 0](https://github.com/sdlcmanfiesto/SMaS/blob/main/img/level-1.png?raw=true)
 
 # pMASS - Project & Process Wizard - DISCOVERY
-![level 1](https://github.com/sdlcmanfiesto/SMaS/blob/main/level-2.png?raw=true)
+![level 1](https://github.com/sdlcmanfiesto/SMaS/blob/main/img/level-2.png?raw=true)
 
 # pMASS - Mindmaping Template
-![level 1](https://github.com/sdlcmanifesto/sMASS/blob/main/pmass-template-02.PNG?raw=true)
+![level 1](https://github.com/sdlcmanifesto/sMASS/blob/main/img/pmass-template-02.PNG?raw=true)
 
 ***please see [v1.feature](https://raw.githubusercontent.com/sdlcmanfiesto/PMaS/main/v1.feature) for desired level 1 gherkin format.***
 
