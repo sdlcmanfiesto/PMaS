@@ -18,10 +18,10 @@ graph TD;
 ![level 0](https://github.com/sdlcmanifesto/sMASS/blob/main/img/sdlc-overall-scopes-03.PNG?raw=true)
 
 # pMASS - Project & Process Wizard - Overall
-![level 0](https://github.com/sdlcmanfiesto/SMaS/blob/main/img/level-1.png?raw=true)
+![level 0](https://github.com/sdlcmanifesto/pMASS/blob/main/img/level-1-2.png?raw=true)
 
 # pMASS - Project & Process Wizard - DISCOVERY
-![level 1](https://github.com/sdlcmanfiesto/SMaS/blob/main/img/level-2.png?raw=true)
+![level 1](https://github.com/sdlcmanifesto/pMASS/blob/main/img/level-2-3.png?raw=true)
 
 # pMASS - Mindmaping Template
 ![level 1](https://github.com/sdlcmanifesto/sMASS/blob/main/img/pmass-template-02.PNG?raw=true)
